@@ -84,8 +84,13 @@
 </template>
 
 <script>
+// import { Group, Cell } from 'vux'
 export default {
   name: 'HelloWorld',
+  components:{
+    // Group,
+    // Cell
+  },
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
