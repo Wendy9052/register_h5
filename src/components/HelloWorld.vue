@@ -85,6 +85,7 @@
 
 <script>
 // import { Group, Cell } from 'vux'
+
 export default {
   name: 'HelloWorld',
   components:{
